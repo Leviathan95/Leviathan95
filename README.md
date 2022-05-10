@@ -10,9 +10,7 @@ I started coding about 3 years back during my college year, I started out with P
 *   ✉️  You can contact me at [skinjonathan43@gmail.com](mailto:skinjonathan43@gmail.com)
 *   🧠  I'm learning Flutter
 *   🤝  I'm open to collaborating on flutter projects
-*   ⚡  The computer is only as useful as your mind!......<a href="https://www.twitter.com/Jonathan_Skini/" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/Jonathan_Skini/?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills<p align="left">
+*   ⚡  The computer is only as useful as your mind!......### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -39,4 +37,4 @@ I started coding about 3 years back during my college year, I started out with P
                           
                       <a href="https://www.linkedin.com/in/jonathan-skini-43228b108/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitter.com/Jonathan_Skini/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges
+                      <a href="https://www.twitter.com/Jonathan_Skini/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
