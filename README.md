@@ -4,12 +4,13 @@ Hi 👋 My name is Jonathan Skini
 Web Developer
 -------------
 
-I started coding about 3 years back during my college year, I started out with Pascal & C++. I changed to Web development a year ago and have since then put myself into it.
+I started coding about 4 years back during my college year, I started out with Pascal & C++. I changed to Web development a year ago and have since then put myself into it.
 
-*   🌍  I'm based in Omaruru, Namibia
+*   🌍  I'm based in Swskopmund, Namibia
 *   ✉️  You can contact me at [skinjonathan43@gmail.com](mailto:skinjonathan43@gmail.com)
-*   🧠  I'm learning Flutter
-*   🤝  I'm open to collaborating on flutter projects
+*   🧠  I'm a Flutter Mobile App Developer.
+*   🎨  Mobile UI Designer efficient with Lunacy.
+*   🤝  I'm open to collaborating on flutter projects.
 *   ⚡  The computer is only as useful as your mind!......### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
